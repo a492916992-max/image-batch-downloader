@@ -13,3 +13,7 @@ A simple utility for downloading images in bulk for datasets, testing, or person
 ## Usage
 
 Scripts are kept simple and easy to modify.
+## Notes
+
+This script is intended for learning and small-scale use.
+Make sure you have permission to download and use any images.
